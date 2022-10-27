@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=mohammad1ta&show_icons=true&locale=en&hide=issues,contribs"
+  alt="mohammad1ta"
+/>
+
 <!--
 **mohammad1ta/mohammad1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
